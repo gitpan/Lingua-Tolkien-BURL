@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lingua-Tolkien-BURL.t
+lib/Lingua/Tolkien/BURL.pm
+META.yml                                 Module meta-data (added by MakeMaker)

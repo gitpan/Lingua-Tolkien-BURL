@@ -1,0 +1,6 @@
+Revision history for Perl extension Lingua::Tolkien::BURL.
+
+0.01  Fri Feb 25 14:19:20 2005
+	- original version; created by h2xs 1.23 with options
+		-AX -n Lingua::Tolkien::BURL
+
